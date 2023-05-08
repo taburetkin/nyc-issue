@@ -1,6 +1,6 @@
 import { second_one, second_two } from "../../src/index.js";
 
-describe("first", () => {
+describe("second", () => {
 
 	describe('second_one', () => {
 		it('should not throw', () => {
