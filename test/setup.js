@@ -1,2 +1,2 @@
 import { expect } from 'chai';
-globalThis.expect = expect;
+global.expect = expect;
