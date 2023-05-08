@@ -1,0 +1,5 @@
+{
+	"require": "./test/setup.js",
+	"recursive": true,
+	"spec": "./test/unit/"
+}
